@@ -1,5 +1,5 @@
 # finalproject-20201188
-20201188 - NGUYEN HOANG MY TAM (미담)
+
 
 import pygame
 import sys
